@@ -1,8 +1,8 @@
 <template>
   <div class="student-page">
-    <h1>zan</h1>
+    <h1>It is Sanzhar's page</h1>
     <!-- TODO (zan): put your page content below. Edit ONLY this file. -->
-    <p>This is the zan page. Replace this text with your content.</p>
+    <p>Just random text</p>
   </div>
 </template>
 
