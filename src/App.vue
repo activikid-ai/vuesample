@@ -7,6 +7,7 @@
         <router-link to="/ins">ins</router-link>
         <router-link to="/yer">yer</router-link>
         <router-link to="/zan">zan</router-link>
+        <router-link to="/mad">Mad</router-link>
       </nav>
     </header>
     <main class="page">

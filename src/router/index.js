@@ -4,6 +4,7 @@ import KazaView from '../views/KazaView.vue'
 import InsView from '../views/InsView.vue'
 import YerView from '../views/YerView.vue'
 import ZanView from '../views/ZanView.vue'
+import MadView from '../views/MadView.vue'
 
 const routes = [
   {
@@ -30,6 +31,11 @@ const routes = [
     path: '/zan',
     name: 'zan',
     component: ZanView,
+  },
+  {
+    path: '/mad',
+    name: 'mad',
+    component: MadView,
   },
 ]
 
