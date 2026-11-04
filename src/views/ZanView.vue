@@ -1,6 +1,9 @@
 <template>
   <div class="student-page">
     <h1>It is Sanzhar's page</h1>
+    This is being editied in the branch
+    
+     
     <!-- TODO (zan): put your page content below. Edit ONLY this file. -->
     <p>Just random text</p>
   </div>
