@@ -5,6 +5,7 @@ import InsView from '../views/InsView.vue'
 import YerView from '../views/YerView.vue'
 import ZanView from '../views/ZanView.vue'
 import MadView from '../views/MadView.vue'
+import MaxView from '../views/MaxView.vue'
 
 const routes = [
   {
@@ -36,6 +37,11 @@ const routes = [
     path: '/mad',
     name: 'mad',
     component: MadView,
+  },
+  {
+    path: '/max',
+    name: 'max',
+    component: MaxView,
   },
 ]
 
